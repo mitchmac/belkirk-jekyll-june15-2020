@@ -38,3 +38,13 @@ fields:
   type: text
   hidden: true
   default: post
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: meta_description
+    type: text
+    config:
+      required: false
+    label: Meta Description
+  label: SEO
