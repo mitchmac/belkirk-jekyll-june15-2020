@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: jekyll-posts
-  label: Posts
+  label: Enterprise Docs
   create: all
   templates:
   - post
