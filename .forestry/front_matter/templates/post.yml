@@ -57,5 +57,3 @@ fields:
         format: html-blocks
     label: Description
   label: SEO
-pages:
-- _posts/2020-10-02-current-workflow.md
